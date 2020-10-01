@@ -20,12 +20,12 @@
 
 ## Docker's image azure deployment
 
-- [](http://taskplanner-backend.westcentralus.azurecontainer.io:8080/api/users)
+- (http://taskplanner-backend.westcentralus.azurecontainer.io:8080/api/users)
 
 ## Link to front repository
 
-- [](https://miguelrivera-r@dev.azure.com/miguelrivera-r/Lab-06/_git/Lab-06)
+- (https://miguelrivera-r@dev.azure.com/miguelrivera-r/Lab-06/_git/Lab-06)
 
 ## Front-end deployment
 
-- [](https://ieti-lab06-front.azurewebsites.net/)
+- (https://ieti-lab06-front.azurewebsites.net/)
