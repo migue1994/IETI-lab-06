@@ -13,9 +13,9 @@
 - Enter the command ``$gradle bootRun``
 - Test the api with postman or other ways
 
-## Aplication test
+## Application test
 
-
+![](img/1.png)
 
 
 ## Docker's image azure deployment
