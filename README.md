@@ -24,7 +24,7 @@
 
 ## Link to front repository
 
-- https://miguelrivera-r@dev.azure.com/miguelrivera-r/Lab-06/_git/Lab-06
+- https://dev.azure.com/miguelrivera-r/_git/Lab-06
 
 ## Front-end deployment
 
